@@ -1,2 +1,3 @@
 # Casa
-Prueba de comandos git
+Prueba de comandos basica en git
+
